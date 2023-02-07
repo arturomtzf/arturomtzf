@@ -1,6 +1,6 @@
 <!--Why are you reading this? Just kidding -->
 <p align="center" width="300">
-   <img align="center" width="200" style='border-radius:50%' src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZYyXvhYDGvELzYoXYpPLMg.png" />
+   <img align="center" width="300" style='border-radius:50%' src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZYyXvhYDGvELzYoXYpPLMg.png" />
    <h3 align="center">Hey there! My name is Arturo Martínez 🙋</h3>
 </p>
 
