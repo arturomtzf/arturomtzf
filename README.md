@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on some projects using Django, Node and React
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Unity and Spring
 - 📫 How to reach me: **arturo_mtzfts@hotmail.com**
